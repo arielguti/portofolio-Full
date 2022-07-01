@@ -29,4 +29,4 @@ Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open
 
 ## Objetivos
 
-Publicar los aprendizajes a medida que se van adquiriendo los conocimientos técnicos/tecnológicos
+Publicar los aprendizajes a medida que se van adquiriendo los conocimientos técnicos/tecnológicos.
